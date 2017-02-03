@@ -4,4 +4,4 @@ adding more stuff!!!
 
 edit on readme branch
 
-updated locally
+updated locally, then remotely
